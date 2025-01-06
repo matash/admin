@@ -1,0 +1,17 @@
+{
+    "name": "vit/admin",
+    "autoload": {
+        "psr-4": {
+            "App\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitalii Matash"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "8.2"
+    }
+}
